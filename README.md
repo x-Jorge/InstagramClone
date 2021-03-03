@@ -2,7 +2,7 @@
 
 **InstagramClone** is a photo sharing app similar to Instagram but using Parse as its backend.
 
-## Flix Part 2
+## InstagramClone Part 2
 
 Time spent: **3** hours spent in total
 
@@ -49,7 +49,7 @@ Describe any challenges encountered while building the app.
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
 
-## Flix Part 1
+## InstagramClone Part 1
 
 # Project 3 - *InstagramClone*
 
